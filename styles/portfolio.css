@@ -1,1 +1,4 @@
-
+/* nav related styles */
+nav {
+  display: flex;
+}
